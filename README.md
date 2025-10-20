@@ -9,7 +9,7 @@ This project showcases advanced SwiftUI layout techniques, specifically focusing
 ## Screenshots
 
 <div align="center">
-  <img width="420" height="912" alt="screenshot1" src="https://github.com/user-attachments/assets/2cb63834-38d4-4a3c-b70a-f9ff0ceb534f" alt="Main View"/>
+  <img width="420" height="912" alt="screenshot1" src="https://github.com/user-attachments/assets/8ae1e64f-af34-4983-ad41-082cb421f676" alt="Main View"/>
   <img width="420" height="912" alt="screenshot2" src="https://github.com/user-attachments/assets/f149831f-d0ba-45b4-ae7f-7987d4121676" alt="Scrolled View"/>
 </div>
 
