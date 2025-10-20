@@ -51,6 +51,7 @@ struct BlogListView: View {
             LazyVStack(spacing: 16) {
                 ForEach(BlogData.sampleData(filtered: isFiltered), id: \.id) { item in
                     BlogItemView(data: item)
+                    Divider()
                 }
             }
             .padding(.horizontal)

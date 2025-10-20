@@ -19,7 +19,6 @@ struct ToggleButton: View {
             HStack(spacing: 8) {
                 Image(systemName: "line.3.horizontal.decrease")
                     .font(.body)
-                
                 Text(title)
                     .font(.body)
             }
